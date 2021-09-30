@@ -1,0 +1,2 @@
+* Ceci est un exemple
+Sitemap: https://chouette-agence-webdesign.fr/sitemap.xml
