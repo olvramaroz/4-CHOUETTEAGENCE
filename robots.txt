@@ -1,2 +1,1 @@
-* Ceci est un exemple
-Sitemap: https://chouette-agence-webdesign.fr/sitemap.xml
+Sitemap: https://olvramaroz.github.io/OnyLalainaValerieRamarozatovo_P4_06072021/sitemap.xml
