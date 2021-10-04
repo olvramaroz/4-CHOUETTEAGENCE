@@ -97,7 +97,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img/texture-paper.webp");
     background-size: 280px 280px;
 }
 
@@ -803,11 +803,11 @@ h3 {
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img/la-chouette-agence-banniere.webp");
 }
 
 .bg-presentation {
-    background-image: url("img/presentation-la-chouette-agence.jpg");
+    background-image: url("img/presentation-la-chouette-agence.webp");
 }
 
 /* TABLETTE  */
