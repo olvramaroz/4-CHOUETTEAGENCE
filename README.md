@@ -1,5 +1,5 @@
-# OnyLalainaValerieRamarozatovo_P4_06072021
-Link to the page : https://olvramaroz.github.io/OnyLalainaValerieRamarozatovo_P4_06072021/
+# SEO TECHNIQUES
+# HTML, CSS, Accesibility, 
 
 
 <h2> La Chouette Agence SEO optimization project </h2>
@@ -30,6 +30,6 @@ They have to make their website accessible-friendly.
 
 </ul>
 
-If you are interested to the full report and the before/after report, please feel free to reach out <a href="https://www.linkedin.com/in/olvramaroz/" target="_blank">my linkedin page.</a>
+### If you are interested to the full report and the before/after report, please feel free to reach out <a href="https://www.linkedin.com/in/olvramaroz/" target="_blank">my linkedin page.</a>
 
 You can <a href="https://olvramaroz.github.io/chouette-agence/" target="_blank">view the old page here.</a>
